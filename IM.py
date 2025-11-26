@@ -401,10 +401,6 @@ def run_algorithms_on_graph(name: str, graph: nx.Graph) -> Dict[str, Dict[str, o
     }
 
 
-###############################################################################
-# Reporting
-###############################################################################
-
 
 def plot_influence(results: Dict[str, Dict[str, object]]):
     algs = ["HA-Benefit", "HA-PageRank", "GA-Elite", "GA-w/o-Elite"]
