@@ -1,3 +1,4 @@
+# Optimization_individual_project: Algorithm Comparisons on Social Network Influence Maximization Problem    
 You can directly run the code IM.py.         
 `python IM.py`    
 Some packages such as** matplotlib, networkx and numpy** as required.   
